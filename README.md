@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Hong Son</h1>
 <h3 align="center">Data analysis intern</h3>
 
-- 🌱 I’m currently learning **digital marketing**
 
 - 🤝 I'm looking for a data analyst job at the fresher level. Here's my personal project: [Hr Analytics Job Prediction](https://github.com/lesondowski/Hr-Analytics-Job-Prediction)
 
